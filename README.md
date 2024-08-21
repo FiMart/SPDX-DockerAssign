@@ -13,6 +13,6 @@
 `docker tag mysql:5.7 sdpx/db`
 
 ### Merge Docker Compose between spdx/api and spdx/db
-`docker-compose -f compose.yaml up`
+`docker-compose -f docker-compose.yaml up`
 
 
